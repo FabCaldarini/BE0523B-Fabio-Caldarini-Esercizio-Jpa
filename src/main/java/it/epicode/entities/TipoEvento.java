@@ -1,4 +1,4 @@
-package it.epicode.dao;
+package it.epicode.entities;
 
 public enum TipoEvento {
     PUBBLICO,
